@@ -35,9 +35,13 @@ Usefull Bookmarked Git Repos other resources
 31. [Featuretools auto feature engineering](https://github.com/Featuretools/predict-next-purchase/blob/master/Tutorial.ipynb)
 32. [Statistical test](https://github.com/StevenPeutz/StevenPeutz.github.io)
 33. [Zappa - Serverless Python](https://github.com/Miserlou/Zappa)
-33. [ML From Scratch by eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch)
-33. [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
-33. [Open Sourced Bias Testing for Generalized Machine Learning Applications](https://github.com/pymetrics/audit-ai)
+34. [ML From Scratch by eriklindernoren](https://github.com/eriklindernoren/ML-From-Scratch)
+35. [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+36. [Open Sourced Bias Testing for Generalized Machine Learning Applications](https://github.com/pymetrics/audit-ai)
+37. [Hadoop-Ebook](https://github.com/samadhankadam/Hadoop-Ebook)
+38. [Understanding & Creating Binary Classification NNs](https://github.com/RafayAK/NothingButNumPy/tree/master/Understanding_and_Creating_Binary_Classification_NNs)
+39. [Data Science Cheat Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+40. [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ## Competition and Sourcecodes
 1. [AV Club Mahindra by skg01](https://github.com/skg01/Competition/blob/master/AV_Club_Mahindra/Model_LightGBM.ipynb)
